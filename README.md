@@ -1,0 +1,1 @@
+# ryzen5_msi_b550_hackintosh_EFI
